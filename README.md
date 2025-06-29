@@ -105,5 +105,9 @@ Auto-generated downloadable reports
 
 Multi-language support
 
+# 👨‍💻 Author
 
+Mohammed Shaaz
+
+🔗 LinkedIn | 🌐 Portfolio
 
