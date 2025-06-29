@@ -315,7 +315,7 @@ export default function Dashboard() {
                 </Button>
               </Link> 
             </CardContent>
-          </Card>
+          </Card>         
         </div>
       </div>
     </PageWrapper>
